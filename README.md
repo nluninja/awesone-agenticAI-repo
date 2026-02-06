@@ -39,6 +39,10 @@ Agentic AI refers to AI systems that can autonomously plan, make decisions, and 
 - [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366) - Shinn et al., 2023
 - [Cognitive Architectures for Language Agents](https://arxiv.org/abs/2309.02427) - Sumers et al., 2023
 - [The Rise and Potential of Large Language Model Based Agents](https://arxiv.org/abs/2309.07864) - Xi et al., 2023
+- [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432) - Wang et al., 2023
+- [Language Models as Agent Models](https://arxiv.org/abs/2212.01681) - Andreas, 2022
+- [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601) - Yao et al., 2023
+- [Foundation Models for Decision Making](https://arxiv.org/abs/2303.04129) - Yang et al., 2023
 
 ### Agent Architectures
 
@@ -46,18 +50,32 @@ Agentic AI refers to AI systems that can autonomously plan, make decisions, and 
 - [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442) - Park et al., 2023
 - [ToolFormer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761) - Schick et al., 2023
 - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) - Wei et al., 2022
+- [MRKL Systems: A modular, neuro-symbolic architecture](https://arxiv.org/abs/2205.00445) - Karpas et al., 2022
+- [HuggingGPT: Solving AI Tasks with ChatGPT and Hugging Face](https://arxiv.org/abs/2303.17580) - Shen et al., 2023
+- [Self-Refine: Iterative Refinement with Self-Feedback](https://arxiv.org/abs/2303.17651) - Madaan et al., 2023
+- [Graph of Thoughts: Solving Elaborate Problems with LLMs](https://arxiv.org/abs/2308.09687) - Besta et al., 2023
+- [Agents: An Open-source Framework for Autonomous LLM Agents](https://arxiv.org/abs/2309.07870) - Zhou et al., 2023
 
 ### Multi-Agent Systems
 
 - [Communicative Agents for Software Development](https://arxiv.org/abs/2307.07924) - Qian et al., 2023
 - [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352) - Hong et al., 2023
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/abs/2308.08155) - Wu et al., 2023
+- [Multi-Agent Collaboration: Harnessing the Power of Intelligent LLM Agents](https://arxiv.org/abs/2306.03314) - Chen et al., 2023
+- [Examining Inter-Consistency of Large Language Models Collaboration](https://arxiv.org/abs/2305.11595) - Talebirad & Nadiri, 2023
+- [AgentVerse: Facilitating Multi-Agent Collaboration](https://arxiv.org/abs/2308.10848) - Chen et al., 2023
+- [Dynamic LLM-Agent Network](https://arxiv.org/abs/2310.02170) - Wang et al., 2023
 
 ### Legal & Ethics
 
 - [Legal Liability for Autonomous AI Agents](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4556327) - Discussion on legal frameworks
 - [Accountability in AI: From Principles to Practice](https://arxiv.org/abs/2103.00091) - Raji et al., 2021
 - [AI Agents and Legal Personhood](https://ieeexplore.ieee.org/document/9426845) - Discussing legal status of AI agents
+- [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922) - Bender et al., 2021
+- [Ethical and Social Risks of Harm from Language Models](https://arxiv.org/abs/2112.04359) - Weidinger et al., 2021
+- [Toward Trustworthy AI Development: Mechanisms for Supporting Verifiable Claims](https://arxiv.org/abs/2004.07213) - Brundage et al., 2020
+- [AI Deception: A Survey of Examples, Risks, and Potential Solutions](https://arxiv.org/abs/2308.14752) - Park et al., 2023
+- [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073) - Bai et al., 2022
 
 ## Frameworks & Tools
 
@@ -94,6 +112,11 @@ Agentic AI refers to AI systems that can autonomously plan, make decisions, and 
 - [AgentOps](https://github.com/AgentOps-AI/agentops) - Observability and dev tools for AI agents
 - [LangSmith](https://www.langchain.com/langsmith) - Platform for debugging, testing, and monitoring LLM applications
 - [Weights & Biases Prompts](https://wandb.ai/site/prompts) - Tools for tracking and versioning prompts
+- [Phoenix](https://github.com/Arize-ai/phoenix) - ML observability for LLMs, agents, and RAG systems
+- [Langfuse](https://github.com/langfuse/langfuse) - Open source LLM engineering platform for debugging, analytics, and monitoring
+- [PromptLayer](https://promptlayer.com/) - Platform for prompt engineering and LLM observability
+- [Helicone](https://github.com/Helicone/helicone) - Open-source observability platform for LLMs
+- [LangWatch](https://langwatch.ai/) - Analytics and monitoring for LLM applications
 
 ## Use Cases & Applications
 
@@ -127,15 +150,19 @@ Agentic AI refers to AI systems that can autonomously plan, make decisions, and 
 
 ### Tutorials
 
-- [Building Your First AI Agent with LangChain](https://www.youtube.com/watch?v=example) - Step-by-step guide
-- [Multi-Agent Systems Explained](https://www.youtube.com/watch?v=example) - Overview of multi-agent architectures
-- [Prompt Engineering for Agents](https://www.youtube.com/watch?v=example) - Best practices
+- [LangChain Agents - Official Tutorial](https://python.langchain.com/docs/modules/agents/) - Comprehensive guide to building agents
+- [AutoGPT Tutorial for Beginners](https://www.youtube.com/watch?v=jn8n212l3PQ) - Getting started with autonomous agents
+- [Building AI Agents with LangGraph](https://www.youtube.com/watch?v=o-NYlFC7FlI) - Step-by-step tutorial on stateful agents
+- [Multi-Agent Systems with AutoGen](https://www.youtube.com/watch?v=RLwyXRVvlNk) - Microsoft's framework explained
+- [CrewAI Tutorial - Building Agent Teams](https://www.youtube.com/watch?v=tnejrr-0a94) - Creating collaborative AI agents
 
 ### Conference Talks
 
-- [The Future of Agentic AI - NeurIPS 2023](https://www.youtube.com/watch?v=example)
-- [Building Production-Ready AI Agents](https://www.youtube.com/watch?v=example)
-- [Multi-Agent Collaboration Patterns](https://www.youtube.com/watch?v=example)
+- [Andrew Ng - Agentic AI Design Patterns](https://www.youtube.com/watch?v=sal78ACtGTc) - Overview of key agent patterns
+- [Shunyu Yao - ReAct: Synergizing Reasoning and Acting](https://www.youtube.com/watch?v=5fKT2qxRVAo) - Original ReAct paper presentation
+- [Building with LLM Agents - Harrison Chase](https://www.youtube.com/watch?v=DWUdGhRrv2c) - LangChain creator on agent development
+- [The Future of Programming and AI Agents - Stanford Seminar](https://www.youtube.com/watch?v=4ZYJvFNRWeY) - Academic perspective
+- [Multi-Agent Systems for Complex Problem Solving](https://www.youtube.com/watch?v=aV3HqA_5KXE) - Research overview
 
 ### Online Courses
 
@@ -180,9 +207,13 @@ Agentic AI refers to AI systems that can autonomously plan, make decisions, and 
 ## Communities & Resources
 
 - [r/AI_Agents](https://www.reddit.com/r/AI_Agents/) - Reddit community for AI agents
+- [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/) - Community for running LLMs and agents locally
 - [LangChain Discord](https://discord.gg/langchain) - Active community for LangChain developers
 - [AI Alignment Forum](https://www.alignmentforum.org/) - Discussions on AI safety and alignment
 - [Hugging Face Agents](https://huggingface.co/docs/transformers/transformers_agents) - Community and documentation
+- [AutoGPT Discord](https://discord.gg/autogpt) - Community for AutoGPT developers
+- [LlamaIndex Discord](https://discord.gg/dGcwcsnxhU) - Community for LlamaIndex and agent development
+- [AI Agents Hub](https://www.aiagentshub.com/) - News and resources about AI agents
 
 ## Contributing
 
