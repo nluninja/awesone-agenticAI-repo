@@ -66,16 +66,28 @@ Agentic AI refers to AI systems that can autonomously plan, make decisions, and 
 - [LangChain](https://github.com/langchain-ai/langchain) - Framework for developing applications powered by language models with agent capabilities
 - [AutoGen](https://github.com/microsoft/autogen) - Microsoft's framework for building multi-agent AI systems
 - [CrewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents
-- [Claude Agent SDK](https://github.com/anthropics/claude-agent-sdk) - Anthropic's SDK for building agents with Claude
 - [LlamaIndex Agents](https://github.com/run-llama/llama_index) - Data framework with agent capabilities
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel) - Microsoft's SDK for integrating LLMs with conventional programming
 - [Haystack](https://github.com/deepset-ai/haystack) - Framework for building NLP applications with agent pipelines
+- [AgentGPT](https://github.com/reworkd/AgentGPT) - Autonomous AI agents in your browser
+- [BabyAGI](https://github.com/yoheinakajima/babyagi) - AI-powered task management system
+- [Langroid](https://github.com/langroid/langroid) - Python framework for building LLM applications with multi-agent capabilities
+- [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - Framework for building, managing and running autonomous AI agents
+- [AI Legion](https://github.com/eumemic/ai-legion) - Platform for building and orchestrating multi-agent systems
+- [OpenAgents](https://github.com/xlang-ai/OpenAgents) - Open platform for using and hosting language agents
+- [Agents](https://github.com/aiwaves-cn/agents) - Library for building multi-agent systems with language models
+- [PydanticAI](https://github.com/pydantic/pydantic-ai) - Agent framework built on Pydantic for type-safe agent development
+- [Swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration
+- [Agency Swarm](https://github.com/VRSEN/agency-swarm) - Framework for creating AI agent swarms that collaborate on tasks
 
 ### LLM Orchestration
 
 - [LangGraph](https://github.com/langchain-ai/langgraph) - Library for building stateful, multi-actor applications with LLMs
 - [Promptflow](https://github.com/microsoft/promptflow) - Microsoft's tool for orchestrating LLM workflows
 - [DSPy](https://github.com/stanfordnlp/dspy) - Framework for algorithmically optimizing LM prompts and weights
+- [Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build customized LLM flows
+- [LangFlow](https://github.com/logspace-ai/langflow) - UI for LangChain with drag-and-drop components
+- [Chain Forge](https://github.com/ianarawjo/ChainForge) - Visual programming environment for prompt engineering
 
 ### Development Tools
 
