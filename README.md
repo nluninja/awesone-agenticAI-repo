@@ -117,6 +117,7 @@ Agentic AI refers to AI systems that can autonomously plan, make decisions, and 
 - [PromptLayer](https://promptlayer.com/) - Platform for prompt engineering and LLM observability
 - [Helicone](https://github.com/Helicone/helicone) - Open-source observability platform for LLMs
 - [LangWatch](https://langwatch.ai/) - Analytics and monitoring for LLM applications
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for Solana AI agents. Verify agent wallet identity before x402 micropayments via free MCP endpoint.
 
 ## Use Cases & Applications
 
