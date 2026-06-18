@@ -117,7 +117,7 @@ Agentic AI refers to AI systems that can autonomously plan, make decisions, and 
 - [PromptLayer](https://promptlayer.com/) - Platform for prompt engineering and LLM observability
 - [Helicone](https://github.com/Helicone/helicone) - Open-source observability platform for LLMs
 - [LangWatch](https://langwatch.ai/) - Analytics and monitoring for LLM applications
-
+- [Future AGI](https://github.com/future-agi/future-agi) - Open-source platform for agent simulation, evaluating, tracing, guarding, and auto-improving AI agents.
 ## Use Cases & Applications
 
 ### Enterprise
